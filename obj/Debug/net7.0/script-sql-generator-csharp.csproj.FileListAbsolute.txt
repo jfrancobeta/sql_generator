@@ -1,0 +1,14 @@
+D:\francos\Documents\JAVA-Intellij\tablacsharp\script-sql-generator-csharp\bin\Debug\net7.0\script-sql-generator-csharp.exe
+D:\francos\Documents\JAVA-Intellij\tablacsharp\script-sql-generator-csharp\bin\Debug\net7.0\script-sql-generator-csharp.deps.json
+D:\francos\Documents\JAVA-Intellij\tablacsharp\script-sql-generator-csharp\bin\Debug\net7.0\script-sql-generator-csharp.runtimeconfig.json
+D:\francos\Documents\JAVA-Intellij\tablacsharp\script-sql-generator-csharp\bin\Debug\net7.0\script-sql-generator-csharp.dll
+D:\francos\Documents\JAVA-Intellij\tablacsharp\script-sql-generator-csharp\bin\Debug\net7.0\script-sql-generator-csharp.pdb
+D:\francos\Documents\JAVA-Intellij\tablacsharp\script-sql-generator-csharp\obj\Debug\net7.0\script-sql-generator-csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\francos\Documents\JAVA-Intellij\tablacsharp\script-sql-generator-csharp\obj\Debug\net7.0\script-sql-generator-csharp.AssemblyInfoInputs.cache
+D:\francos\Documents\JAVA-Intellij\tablacsharp\script-sql-generator-csharp\obj\Debug\net7.0\script-sql-generator-csharp.AssemblyInfo.cs
+D:\francos\Documents\JAVA-Intellij\tablacsharp\script-sql-generator-csharp\obj\Debug\net7.0\script-sql-generator-csharp.csproj.CoreCompileInputs.cache
+D:\francos\Documents\JAVA-Intellij\tablacsharp\script-sql-generator-csharp\obj\Debug\net7.0\script-sql-generator-csharp.dll
+D:\francos\Documents\JAVA-Intellij\tablacsharp\script-sql-generator-csharp\obj\Debug\net7.0\refint\script-sql-generator-csharp.dll
+D:\francos\Documents\JAVA-Intellij\tablacsharp\script-sql-generator-csharp\obj\Debug\net7.0\script-sql-generator-csharp.pdb
+D:\francos\Documents\JAVA-Intellij\tablacsharp\script-sql-generator-csharp\obj\Debug\net7.0\script-sql-generator-csharp.genruntimeconfig.cache
+D:\francos\Documents\JAVA-Intellij\tablacsharp\script-sql-generator-csharp\obj\Debug\net7.0\ref\script-sql-generator-csharp.dll

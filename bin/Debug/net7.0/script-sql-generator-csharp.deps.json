@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "script-sql-generator-csharp/1.0.0": {
+        "runtime": {
+          "script-sql-generator-csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "script-sql-generator-csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
